@@ -12,6 +12,6 @@ Inside this repo, there are many folders and files. Each one is labeled by it's 
 
 **Using this repository, what can I make to my existing Lion installation?**
 
-Using this repo, you can get software I have hunted around the world wide web, it's all here, neat and collected! You can also change the appearence of the OS, to a more "modern" look. 
+Using this repo, you can get software I have hunted around the world wide web, it's all here, neat and collected! You can also change the appearence of the OS, to a more "modern look".
 
-https://imgur.com\gallery/3eDaMIX
+
